@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Modak&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.green {
+    background-color: #61ff7b;
+    border-radius: 10px;
+}
+
+.blue {
+    background-color: #1398a0;
+    border-radius: 10px;
+    color: white;
+}
+
+.bordure-pointille {
+    border: dashed;
+}
+
+.btn {
+    text-decoration: none;
+    font-family: "Inter", sans serif;
+    padding: 16px 32px;
+    display: inline-block;
+}
+
+.bordure {
+    border: solid;
+}
+
+.ta {
+    font-weight: 700;
+    font-family: "Inter", sans serif;
+}
+
+.bord {
+    border-radius: 0px 10px 0px 10px;
+}
+
+.ec {
+    font-family: "Inter", sans serif;
+}
+.bold{
+    font-size: 22px;
+    font-weight: 700;
+    font-style: bold;
+}
+.card{
+    width: 30%;
+    padding: 8px;
+    border-radius: 16px;
+    box-shadow: 2px 2px 15px gray;
+}
+.carde{
+    margin-top: 16px;
+}
+.in{
+    display: inline;
+}
+.e{
+    margin-top: 50px;
+}
+.w100{
+    width: 100%;
+}
+.border-8{
+    border-radius: 8px;
+}
+.mt{
+    margin-top: 16px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.space-around{
+    justify-content: space-around;
+}
